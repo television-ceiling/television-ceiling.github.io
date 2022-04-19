@@ -1,0 +1,21 @@
+{
+    "name": "The Truth About Santa",
+    "short_name": "SantaTruth",
+    "start_url": "",
+    "display": "browser",
+    "background_color": "#ffffff",
+    "theme__color" : "#ff0000",
+    "description": "Learn the sinister truth behind Santa so that you can protect your children. We&#39;re definitely serious about what we&#39;re writing here.",
+    "icons": [{
+        "src": "/assets/images/site/favicon-android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png" }, {
+        "src": "/assets/images/site/favicon-android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png" }, {
+        "src": "/assets/images/site/favicon-maskable_icon.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "maskable" }
+    ]
+}
