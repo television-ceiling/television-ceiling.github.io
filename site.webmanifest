@@ -1,7 +1,7 @@
 {
     "name": "The Truth About Santa",
     "short_name": "SantaTruth",
-    "start_url": "",
+    "start_url": "https://santatruth.net",
     "display": "browser",
     "background_color": "#ffffff",
     "theme__color" : "#ff0000",
